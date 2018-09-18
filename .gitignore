@@ -1,0 +1,5 @@
+*.pyc
+
+.idea
+
+web_testing/keys.py
